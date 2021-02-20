@@ -23,7 +23,9 @@ age	(Alter der Person in Zahlenwerten; Organsiationen haben hier ein NA)
 funktion (Einteilung in Organe des VfB Stuttgart)
 - V = Vorstand
 - AR = Aufsichtsrat	
-- Sonstige?
+- PR = Präsidium
+- VB = Vereinsbeirat
+- EP = Ehrenpräsident
 
 representation (bezieht sich auf die Funktion innerhalb der VfB Gremien: Politik, Wirtschaft, Gewerkschaft, Umwelt, Sport, Wissenschaft, etc.)
 - Codierung?
