@@ -1,7 +1,7 @@
 # Codebuch VfB-Netzwerk von Maren Krämer
 Prüfungsvorleistung WS 20/21
 
-Achtung: da es während der Erhebung gerade zu Veränderungen in den Gremien kommt, sind manche Personen (Vogt und Adrion) gleichzeitig in zwei Gremien vorhanden.
+Achtung: da es zum Zeitpunkt der Erhebung (19.02) gerade zu Veränderungen in den Gremien kommt, sind manche Personen (Vogt und Adrion) gleichzeitig in zwei Gremien vorhanden.
 
 **Edgelist**  
 
