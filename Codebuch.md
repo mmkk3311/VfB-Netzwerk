@@ -8,7 +8,7 @@ Achtung: da es zum Zeitpunkt der Erhebung (19.02) gerade zu Veränderungen in de
 **Edgelist**  
 
 - from = id Person
-- to = alle aktiven Mitgliedschaften der Person, soweit in dem Dokument recherchierbar, dazu gehört z.B. politische Partei, Unternehmen, Verbände, Vereine und weitere Organisationen)
+- to = alle aktiven Mitgliedschaften der Person, soweit in dem Dokument recherchierbar (dazu gehört z.B. politische Partei, Unternehmen, Verbände, Vereine und weitere Organisationen)
 - status = genauere Erklärung, inwiefern die Person mit der Organisation verbunden ist (dient der Übersicht, für Netzwerk unrelevant)
 
 **Nodelist**
