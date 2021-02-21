@@ -14,16 +14,20 @@ Achtung: da es zum Zeitpunkt der Erhebung (19.02) gerade zu Veränderungen in de
 **Nodelist**
 
 id (eindeutige ID der Person oder Organisation)
+
 label (entspricht der ID, dient der Visualisierung in R (R nimmt Attribut label automatisch als Label an))
+
 name (vollständiger Name der Person oder Organisation)
 
 type (Einteilung in Person und Organisation)
+
 - 0 = Person
 - 1 = Organisation
 
 age	(Alter der Person in Zahlenwerten; Organsationen haben hier ein NA)
 
 funktion (Einteilung in Organe des VfB Stuttgart; function wurde ersetzt, damit sich Attribut nicht mit gleichnamigem Befehl in R überschneidet)
+
 - 1 = Vorstand mit Mitgliedern
 - 2 = Aufsichtsrat mit Mitgliedern
 - 3 = Vereinsbeirat mit Mitgliedern
@@ -32,6 +36,7 @@ funktion (Einteilung in Organe des VfB Stuttgart; function wurde ersetzt, damit 
 folgende Attribute werden für die Netzwerkerstellung, - visualisierung und -analyse nicht benötigt und dienen nur der Vollständig- und Verständlichkeit der Daten:
 
 representation (bezieht sich auf die Funktion innerhalb der VfB Gremien: Politik, Wirtschaft, Gewerkschaft, Umwelt, Sport, Wissenschaft, etc.)
+
 position (Vorsitz, Stellvertreter, Mitglied in der VfB Organisation)  
 
 
